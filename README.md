@@ -4,3 +4,6 @@ This is snake game tutorial I took from Youtube (LeMaster Tech Channel). Link to
 
 Pretty straight forward i just create the snake, create the movements, create the food, and create the map. This is one of my first python projects
 
+## Leaderboard
+
+I created this branch to add a leaderboard that I can save to a sqlite DB
